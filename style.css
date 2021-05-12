@@ -1,3 +1,6 @@
+/*This is the style sheet for my website. It is linked to the 3 pages of html I have written*/
+
+/*The following selects h1 elements*/
 h1{
-    text-align: center;
+    text-align: center;/*This centers the text*/
 }
